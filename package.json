@@ -1,0 +1,21 @@
+{
+  "name": "mc-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lcw5945/mc-websocket"
+  },
+  "author": "lichunwei",
+  "license": "ISC",
+  "dependencies": {
+    "mc-log": "^1.0.0",
+    "ws": "^6.2.0"
+  },
+  "devDependencies": {}
+}
